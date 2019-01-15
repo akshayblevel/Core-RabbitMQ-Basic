@@ -1,0 +1,10 @@
+D:\AKKI_DEV\RND\CoreRabbitMQ\CoreRabbitMQ\bin\Debug\netcoreapp2.1\CoreRabbitMQ.deps.json
+D:\AKKI_DEV\RND\CoreRabbitMQ\CoreRabbitMQ\bin\Debug\netcoreapp2.1\CoreRabbitMQ.runtimeconfig.json
+D:\AKKI_DEV\RND\CoreRabbitMQ\CoreRabbitMQ\bin\Debug\netcoreapp2.1\CoreRabbitMQ.runtimeconfig.dev.json
+D:\AKKI_DEV\RND\CoreRabbitMQ\CoreRabbitMQ\bin\Debug\netcoreapp2.1\CoreRabbitMQ.dll
+D:\AKKI_DEV\RND\CoreRabbitMQ\CoreRabbitMQ\obj\Debug\netcoreapp2.1\CoreRabbitMQ.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\CoreRabbitMQ\CoreRabbitMQ\obj\Debug\netcoreapp2.1\CoreRabbitMQ.AssemblyInfoInputs.cache
+D:\AKKI_DEV\RND\CoreRabbitMQ\CoreRabbitMQ\obj\Debug\netcoreapp2.1\CoreRabbitMQ.AssemblyInfo.cs
+D:\AKKI_DEV\RND\CoreRabbitMQ\CoreRabbitMQ\bin\Debug\netcoreapp2.1\CoreRabbitMQ.pdb
+D:\AKKI_DEV\RND\CoreRabbitMQ\CoreRabbitMQ\obj\Debug\netcoreapp2.1\CoreRabbitMQ.dll
+D:\AKKI_DEV\RND\CoreRabbitMQ\CoreRabbitMQ\obj\Debug\netcoreapp2.1\CoreRabbitMQ.pdb
